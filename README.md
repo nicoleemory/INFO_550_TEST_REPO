@@ -6,6 +6,7 @@ Nicole
 
 Here is some text that constitutes my first commit in my first repo. I
 am now adding a new line to this first commit section of the readme.
+text for another commit. test for yet another commit.
 
 # My second commit
 
